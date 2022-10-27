@@ -6,8 +6,8 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "title": "Javascript",
-        "image_url": "https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png",
+        "title": "Learn Javascript",
+        "image_url": "https://avatars.githubusercontent.com/u/19951984?v=4",
         "details": "JavaScript (js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document. It was introduced in the year 1995 for adding programs to the webpages in the Netscape Navigator browser. Since then, it has been adopted by all other graphical web browsers. With JavaScript, users can build modern web applications to interact directly without reloading the page every time. The traditional website uses js to provide several forms of interactivity and simplicity.Although, JavaScript has no connectivity with Java programming language. The name was suggested and provided in the times when Java was gaining popularity in the market. In addition to web browsers, databases such as CouchDB and MongoDB uses JavaScript as their scripting and query language."
     },
     {
@@ -17,8 +17,8 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "title": "Python",
-        "image_url": "https://i.ibb.co/tBvGZXT/python.png",
+        "title": "Learn Python",
+        "image_url": "https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png",
         "details": "Python awesome. "
     },
     {
@@ -28,8 +28,8 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "title": "Java",
-        "image_url": "https://i.ibb.co/SRdgV7Z/java-logo.jpg",
+        "title": "Learn Java",
+        "image_url": "https://findicons.com/files/icons/1636/file_icons_vs_3/256/java.png",
         "details": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc.Java Platform is a collection of programs that help programmers to develop and run Java programming applications efficiently. It includes an execution engine, a compiler, and a set of libraries in it. It is a set of computer software and specifications. James Gosling developed the Java platform at Sun Microsystems, and the Oracle Corporation later acquired it."
     },
     {
@@ -39,7 +39,7 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "title": "C",
+        "title": "Learn C",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
         "details": "C awesome.",
         "price": "$10"
@@ -51,8 +51,8 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "title": "PHP",
-        "image_url": "https://i.ibb.co/r5YZVhw/php.jpg",
+        "title": "Learn PHP",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/fb/83/f4/fb83f44a-1281-0143-2a07-30bcbd5f941c/source/256x256bb.jpg",
         "details": "PHP awesome."
     },
     {
@@ -62,8 +62,8 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "title": "HTML",
-        "image_url": "https://i.ibb.co/Jp9rrN9/html-512-1.png",
+        "title": "Learn HTML",
+        "image_url": "data:image/jpeg;base64,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",
         "details": "HTML Awesome"
     }
 ]

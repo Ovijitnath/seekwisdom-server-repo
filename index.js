@@ -20,13 +20,13 @@ app.get('/catagories', (req, res) => {
 
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourses = courses.find(c => c._id == id);
+    const selectedCourses = courses.find(c => c._id === id);
 
     res.send(selectedCourses);
 });
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    const CourseDetails = courses.filter(c => c._id == id);
+    const CourseDetails = courses.filter(c => c.category_id == id);
 
     res.send(CourseDetails);
 });
