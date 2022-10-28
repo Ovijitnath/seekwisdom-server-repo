@@ -30,6 +30,12 @@ app.get('/course/:id', (req, res) => {
 
     res.send(CourseDetails);
 });
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const CourseDetails = courses.filter(c => c.category_id == id);
+
+    res.send(CourseDetails);
+});
 
 app.listen(port, () => {
     console.log('seekWisdom server running on port', port);
